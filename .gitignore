@@ -1,0 +1,6 @@
+# Do not commit generated credentials or certificates.
+*.pem
+*.key
+hysteria2_client.yaml
+/config.yaml
+.env
